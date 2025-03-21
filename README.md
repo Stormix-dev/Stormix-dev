@@ -5,7 +5,8 @@
   - Markup e altri: HTML, CSS, LaTeX
   - Framework e Tooling: Spring, Spring Boot, Angular
 
-- 🎯 Attualmente sto lavorando su: *null*.
+- 🎯 Attualmente sto lavorando su:
+  - **Progetti PBKDF2 in Multi-Linguaggio**: Implementazioni dell'algoritmo PBKDF2 in Java, C# e Rust, con confronto delle performance.
 
 - 🌱 Sempre curioso di imparare: Kubernetes, Machine Learning e DevOps.
 
@@ -23,8 +24,9 @@
 ---
 
 ### Progetti principali:
-- [Stormix](https://github.com/Stormix-dev/Stormix): Una piattaforma per [descrizione breve].
-- [Nome Altro Progetto](https://github.com/...): Descrizione breve.
+- [PBKDF2 in Java](https://github.com/Stormix-dev/PBKDF2-Java): Implementazione dell'algoritmo PBKDF2, scritto in Java. Include test di performance con dataset di esempio.
+- [PBKDF2 in C#](https://github.com/Stormix-dev/PBKDF2-CSharp): Versione in C# dello stesso algoritmo, ottimizzata per l'ambiente .NET.
+- [PBKDF2 in Rust](https://github.com/Stormix-dev/PBKDF2-Rust): Un'implementazione performante di PBKDF2 in Rust, focalizzata su velocità e sicurezza.
 
 ---
 
