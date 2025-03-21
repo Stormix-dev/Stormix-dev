@@ -4,11 +4,12 @@
   - Linguaggi: C, C++, Java, C#, Rust, JavaScript
   - Markup e altri: HTML, CSS, LaTeX
   - Framework e Tooling: Spring, Spring Boot, Angular
+  - Sistemi operativi: Windows e distro Linux
 
 - 🎯 Attualmente sto lavorando su:
   - **Progetti PBKDF2 in Multi-Linguaggio**: Implementazioni dell'algoritmo PBKDF2 in Java, C# e Rust, con confronto delle performance.
 
-- 🌱 Sempre curioso di imparare: Kubernetes, Machine Learning e DevOps.
+- 🌱 Sempre curioso di imparare: nuovi linguaggi moderni, paradigmi, pattern di programmazione, argomenti di Machine Learning e DevOps per migliorare sempre più.
 
 - ✨ Mi trovi su: 
   - [LinkedIn](https://www.linkedin.com/in/gianmarco-simeoni-software-developer-engineer/)
