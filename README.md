@@ -23,8 +23,19 @@
 
 ---
 
+### Confronto delle Performance
+Ho confrontato l'implementazione dell'algoritmo PBKDF2 in Java, C# e Rust utilizzando un dataset di 10.000 password. I risultati sono i seguenti:
+
+| Linguaggio | Tempo di Esecuzione (ms) |                            Note                               |
+|------------|--------------------------|---------------------------------------------------------------|
+| Java       | 11514                    | Eseguito con comando specifico per migliorare le performance  |
+| C#         | 10594                    | Usato metodo aggiornato della classe Rfc2898DeriveBytes       |
+| Rust       | 5878                     | Eseguito in --release: Maggiore velocità e sicurezza          |
+
+---
+
 ### Progetti principali:
-- [PBKDF2 in Java](https://github.com/Stormix-dev/PBKDF2-Java): Implementazione dell'algoritmo PBKDF2, scritto in Java. Include test di performance con dataset di esempio.
+- [PBKDF2 in Java](https://github.com/Stormix-dev/PBKDF2-Java): Implementazione dell'algoritmo PBKDF2, scritto in Java.
 - [PBKDF2 in C#](https://github.com/Stormix-dev/PBKDF2-CSharp): Versione in C# dello stesso algoritmo, ottimizzata per l'ambiente .NET.
 - [PBKDF2 in Rust](https://github.com/Stormix-dev/PBKDF2-Rust): Un'implementazione performante di PBKDF2 in Rust, focalizzata su velocità e sicurezza.
 
