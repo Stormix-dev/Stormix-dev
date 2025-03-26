@@ -37,9 +37,9 @@ Ho confrontato l'implementazione dell'algoritmo PBKDF2 in Java, C# e Rust utiliz
 
 | Linguaggio | Tempo di Esecuzione (ms) |                            Note                               |
 |------------|--------------------------|---------------------------------------------------------------|
-| Java       | 11514                    | Eseguito con comando specifico per migliorare le performance  |
-| C#         | 10594                    | Usato metodo aggiornato della classe Rfc2898DeriveBytes       |
 | Rust       | 5878                     | Eseguito in --release: Maggiore velocità e sicurezza          |
+| C#         | 10594                    | Usato metodo aggiornato della classe Rfc2898DeriveBytes       |
+| Java       | 11514                    | Eseguito con comando specifico per migliorare le performance  |
 
 ---
 
