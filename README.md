@@ -59,7 +59,7 @@
 - 🔑 [PBKDF2 in C#](https://github.com/Stormix-dev/PBKDF2-CSharp): Versione **.NET** ottimizzata per **performance e sicurezza**.
 - 🔑 [PBKDF2 in Rust](https://github.com/Stormix-dev/PBKDF2-Rust): Implementazione **performante** in **Rust**.
 - 📷 [TF2 Map Image Scraper](https://github.com/Stormix-dev/TF2-Map-Scraper): **Web Scraper** in **Rust** che scarica immagini di **mappe di TF2**.
-- 📖 [Codewars](https://github.com/Stormix-dev/CodewarsExercise): **Raccolta di esercizi di programmazione** in **Java**, risolti e organizzati in package.
+- 📖 [Codewars](https://github.com/Stormix-dev/Codewars): **Raccolta di esercizi di programmazione** in **Java**, risolti e organizzati in package.
 
 ---
 
