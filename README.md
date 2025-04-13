@@ -9,8 +9,8 @@
 ---
 
 ## 🎯 Attualmente sto lavorando su:
-- **🔑 PBKDF2 Multi-Language Benchmark**  
-  Implementazione dell'algoritmo PBKDF2 in **Java, C# e Rust**, confrontandone le **performance** e la **sicurezza**.  
+- **🔑 Codewars Challenges Repository**  
+  Sto risolvendo problemi di programmazione di vario livello di complessità, mettendo alla prova le mie competenze su **algoritmi** e **strutture dati**. Le soluzioni sono organizzate e documentate nella mia repository di Codewars.
 - **📷 TF2 Map Image Scraper**  
   Un **web scraper** scritto in Rust che cerca e scarica immagini di **mappe di Team Fortress 2** direttamente da **Google Immagini**.  
 
@@ -60,6 +60,7 @@
 - 🔑 [PBKDF2 in Rust](https://github.com/Stormix-dev/PBKDF2-Rust): Implementazione **performante** in **Rust**.
 - 📷 [TF2 Map Image Scraper](https://github.com/Stormix-dev/TF2-Map-Scraper): **Web Scraper** in **Rust** che scarica immagini di **mappe di TF2**.
 - 📖 [Codewars](https://github.com/Stormix-dev/Codewars): **Raccolta di esercizi di programmazione** in **Java**, risolti e organizzati in package.
+- 🦀 [Chat P2P](https://github.com/Stormix-dev/p2p_chat): Implementazione di una **chat Peer-to-Peer** in **Rust**, che dimostra l'uso di **networking asincrono**, **serializzazione JSON** e un'architettura robusta basata su **Tokio**.
 
 ---
 
