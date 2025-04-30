@@ -12,7 +12,9 @@
 - **🔑 Codewars Challenges Repository**  
   Sto risolvendo problemi di programmazione di vario livello di complessità, mettendo alla prova le mie competenze su **algoritmi** e **strutture dati**. Le soluzioni sono organizzate e documentate nella mia repository di Codewars.
 - **📷 TF2 Map Image Scraper**  
-  Un **web scraper** scritto in Rust che cerca e scarica immagini di **mappe di Team Fortress 2** direttamente da **Google Immagini**.  
+  Un **web scraper** scritto in Rust che cerca e scarica immagini di **mappe di Team Fortress 2** direttamente da **Google Immagini**.
+- **🛒 BookStore Anonimo**  
+  Un progetto e-commerce orientato alla **privacy e alla distribuzione sicura** di contenuti, realizzato per la mia **tesi     di laurea**. 
 
 ---
 
@@ -61,6 +63,11 @@
 - 📷 [TF2 Map Image Scraper](https://github.com/Stormix-dev/TF2-Map-Scraper): **Web Scraper** in **Rust** che scarica immagini di **mappe di TF2**.
 - 📖 [Codewars](https://github.com/Stormix-dev/Codewars): **Raccolta di esercizi di programmazione** in **Java**, risolti e organizzati in package.
 - 🦀 [Chat P2P](https://github.com/Stormix-dev/p2p_chat): Implementazione di una **chat Peer-to-Peer** in **Rust**, che dimostra l'uso di **networking asincrono**, **serializzazione JSON** e un'architettura robusta basata su **Tokio**.
+- 🛒 [BookStore Anonimo](https://github.com/Stormix-dev/anonymous-bookstore): Applicazione e-commerce progettata per la **vendita sicura e anonima di libri digitali**, sviluppata come parte della mia **tesi di laurea**. Include:
+  * Anonimato completo dell’utente (no registrazione)
+  * Link temporanei per download
+  * Pagamenti minimi e tracciabilità ridotta
+  * Back-end con Spring Boot e database PostgreSQL
 
 ---
 
