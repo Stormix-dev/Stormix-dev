@@ -68,7 +68,9 @@
   * Link temporanei per download
   * Pagamenti minimi e tracciabilità ridotta
   * Back-end con Spring Boot e database PostgreSQL
-
+- ☀️ [Meteo App (Rust + React)](https://github.com/Stormix-dev/weather-app):  
+  Applicazione **full-stack** con **back-end in Rust (Axum)** e **front-end in React**, che consente di visualizzare in tempo reale il meteo di varie città.  
+  
 ---
 
 ## 📊 Statistiche GitHub
