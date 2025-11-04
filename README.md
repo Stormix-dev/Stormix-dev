@@ -14,7 +14,9 @@
 - **📷 TF2 Map Image Scraper**  
   Un **web scraper** scritto in Rust che cerca e scarica immagini di **mappe di Team Fortress 2** direttamente da **Google Immagini**.
 - **🛒 BookStore Anonimo**  
-  Un progetto e-commerce orientato alla **privacy e alla distribuzione sicura** di contenuti, realizzato per la mia **tesi     di laurea**. 
+  Un progetto e-commerce orientato alla **privacy e alla distribuzione sicura** di contenuti, realizzato per la mia **tesi     di laurea**.
+- **♟️ GK Chess Engine**  
+  Un **motore di scacchi completo** con interfaccia grafica in **Rust**, che implementa tutte le regole degli scacchi inclusi arrocco, en passant, e rilevamento di scacco matto/stallo. 
 
 ---
 
@@ -69,7 +71,9 @@
   * Pagamenti minimi e tracciabilità ridotta
   * Back-end con Spring Boot e database PostgreSQL
 - ☀️ [Meteo App (Rust + React)](https://github.com/Stormix-dev/weather-app):  
-  Applicazione **full-stack** con **back-end in Rust (Axum)** e **front-end in React**, che consente di visualizzare in tempo reale il meteo di varie città.  
+  Applicazione **full-stack** con **back-end in Rust (Axum)** e **front-end in React**, che consente di visualizzare in tempo reale il meteo di varie città.
+- ♟️ [GK Chess Engine](https://github.com/Stormix-dev/gk_chess_engine):  
+  Motore di scacchi completo sviluppato in **Rust** con interfaccia grafica **egui/eframe**. Implementa tutte le regole ufficiali degli scacchi, inclusi movimenti speciali (arrocco, en passant, promozione), validazione completa delle mosse, rilevamento di scacco/scacco matto/stallo, e interfaccia utente intuitiva in italiano.  
   
 ---
 
