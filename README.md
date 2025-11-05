@@ -9,6 +9,8 @@
 ---
 
 ## 🎯 Attualmente sto lavorando su:
+- **🔗 Concatenative Language Interpreter**  
+  Un **interprete stack-based** scritto in C per linguaggi concatenativi, con oltre 30 comandi implementati, documentazione bilingue (IT/EN) riga per riga, e funzionalità avanzate come statistiche in tempo reale e operazioni di confronto.
 - **🔑 Codewars Challenges Repository**  
   Sto risolvendo problemi di programmazione di vario livello di complessità, mettendo alla prova le mie competenze su **algoritmi** e **strutture dati**. Le soluzioni sono organizzate e documentate nella mia repository di Codewars.
 - **📷 TF2 Map Image Scraper**  
@@ -62,6 +64,7 @@
 - 🔑 [PBKDF2 in Java](https://github.com/Stormix-dev/PBKDF2-Java): Implementazione dell'algoritmo PBKDF2 in **Java**.
 - 🔑 [PBKDF2 in C#](https://github.com/Stormix-dev/PBKDF2-CSharp): Versione **.NET** ottimizzata per **performance e sicurezza**.
 - 🔑 [PBKDF2 in Rust](https://github.com/Stormix-dev/PBKDF2-Rust): Implementazione **performante** in **Rust**.
+- 🔗 [Concatenative Interpreter](https://github.com/Stormix-dev/concatenative-interpreter): **Interprete stack-based** per linguaggio concatenativo scritto in **C**, con operazioni estese, documentazione bilingue completa e interfaccia interattiva.
 - 📷 [TF2 Map Image Scraper](https://github.com/Stormix-dev/TF2-Map-Scraper): **Web Scraper** in **Rust** che scarica immagini di **mappe di TF2**.
 - 📖 [Codewars](https://github.com/Stormix-dev/Codewars): **Raccolta di esercizi di programmazione** in **Java**, risolti e organizzati in package.
 - 🦀 [Chat P2P](https://github.com/Stormix-dev/p2p_chat): Implementazione di una **chat Peer-to-Peer** in **Rust**, che dimostra l'uso di **networking asincrono**, **serializzazione JSON** e un'architettura robusta basata su **Tokio**.
