@@ -18,7 +18,9 @@
 - **🛒 BookStore Anonimo**  
   Un progetto e-commerce orientato alla **privacy e alla distribuzione sicura** di contenuti, realizzato per la mia **tesi     di laurea**.
 - **♟️ GK Chess Engine**  
-  Un **motore di scacchi completo** con interfaccia grafica in **Rust**, che implementa tutte le regole degli scacchi inclusi arrocco, en passant, e rilevamento di scacco matto/stallo. 
+  Un **motore di scacchi completo** con interfaccia grafica in **Rust**, che implementa tutte le regole degli scacchi inclusi arrocco, en passant, e rilevamento di scacco matto/stallo.
+- **🎮 Connect Four Game**  
+  Un'implementazione **Java** del classico gioco Forza 4 con **architettura OOP pulita**, **29 test JUnit 5** e algoritmo di rilevamento vittoria **O(1)**. Include design pattern (Strategy per AI), principi SOLID, e documentazione completa. Perfetto esempio di clean code e best practices.
 
 ---
 
@@ -75,8 +77,16 @@
   * Back-end con Spring Boot e database PostgreSQL
 - ☀️ [Meteo App (Rust + React)](https://github.com/Stormix-dev/weather-app):  
   Applicazione **full-stack** con **back-end in Rust (Axum)** e **front-end in React**, che consente di visualizzare in tempo reale il meteo di varie città.
+### 🎮 Game Development & Algoritmi
 - ♟️ [GK Chess Engine](https://github.com/Stormix-dev/gk_chess_engine):  
-  Motore di scacchi completo sviluppato in **Rust** con interfaccia grafica **egui/eframe**. Implementa tutte le regole ufficiali degli scacchi, inclusi movimenti speciali (arrocco, en passant, promozione), validazione completa delle mosse, rilevamento di scacco/scacco matto/stallo, e interfaccia utente intuitiva in italiano.  
+Motore di scacchi completo sviluppato in **Rust** con interfaccia grafica **egui/eframe**. Implementa tutte le regole ufficiali degli scacchi, inclusi movimenti speciali (arrocco, en passant, promozione), validazione completa delle mosse, rilevamento di scacco/scacco matto/stallo, e interfaccia utente intuitiva in italiano.
+- **[Connect Four Game](https://github.com/Stormix-dev/connect-four-game)**: 
+     Implementazione del classico Forza 4 in **Java 11** con **Maven**. Caratteristiche:
+     * Architettura OOP pulita (principi SOLID)
+     * 29 test JUnit 5 con copertura >90%
+     * Algoritmo di rilevamento vittoria **O(1)** efficiente
+     * Design patterns: Strategy per AI, Enum per type safety
+     * Documentazione completa e best practices  
   
 ---
 
