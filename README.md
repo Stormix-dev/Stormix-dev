@@ -250,12 +250,6 @@ Chat Peer-to-Peer in Rust con networking asincrono.
 
 </div>
 
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Stormix-dev&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-
-</div>
-
 ---
 
 ## 🎯 Attualmente Sto Lavorando Su
