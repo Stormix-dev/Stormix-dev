@@ -23,7 +23,7 @@
 
 ## 🎯 Chi Sono
 
-💻 **Senior Software Developer** con oltre **5 anni di esperienza** nello sviluppo software, specializzato nel **back-end** e appassionato di **clean code** e **best practices**.
+💻 **Senior Software Engineer** con oltre **5 anni di esperienza** nello sviluppo software, specializzato nel **back-end** e appassionato di **clean code** e **best practices**.
 
 ```rust
 struct Developer {
